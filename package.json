@@ -1,0 +1,16 @@
+{
+  "name": "eslint-report-diff",
+  "version": "1.0.0",
+  "description": "CLI tool to compare two ESLint report files",
+  "main": "index.js",
+  "bin": {
+    "eslint-report-diff": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/test.js"
+  },
+  "keywords": ["eslint", "report", "diff", "cli"],
+  "author": "",
+  "license": "ISC"
+}
